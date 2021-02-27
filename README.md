@@ -1,2 +1,2 @@
 # SponsorshipProject
-GitHub.com/JeffreyBodin/sponsors
+https://github.com/sponsors/JeffreyBodin
